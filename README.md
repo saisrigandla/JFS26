@@ -12,6 +12,56 @@ To successfully transition from **Loops** to a **₹15 LPA Architecture** in 60 
 
 ---
 
+---
+
+**3 months plan**
+
+📅 MONTH 1: Core Logic Reset ──► 📅 MONTH 2: Enterprise Backend ──► 📅 MONTH 3: Distributed Apps & Cloud
+   - Master Java 17 & DSA           - Spring Boot REST APIs            - Kafka, Redis Microservices
+   - React UI Fundamentals          - SQL Databases & JPA              - AWS Cloud Deployed Live
+
+---
+
+### 🛠️ Core Tech Stack & Subjects Checklist
+
+#### ☀️ 1. Frontend Engineering
+- [ ] HTML5 & CSS3 Foundations
+- [ ] Tailwind CSS Framework
+- [ ] Modern JavaScript (ES6+)
+- [ ] TypeScript Static Typing
+- [ ] React.js Component Architecture
+- [ ] Redux Toolkit Global State Management
+- [ ] Axios Network Ingestion Client
+- [ ] Client-Side Security & Routing
+- [ ] Vite Build Tools & Bundlers
+
+#### 🌅 2. Backend & System Architecture
+- [ ] Advanced Java (Java 17 to 25)
+- [ ] Data Structures & Algorithms (DSA)
+- [ ] Computer Science Fundamentals (OS, DBMS, Networks)
+- [ ] Object-Oriented Design & Patterns (LLD/HLD)
+- [ ] Spring Boot 3.x Framework
+- [ ] Spring Security Framework
+- [ ] JSON Web Tokens (JWT) Stateless Security
+- [ ] Spring Cloud Microservices Ecosystem (Eureka & Gateway)
+- [ ] Resilience4j Fault Tolerance Systems
+- [ ] Apache Kafka Event-Driven Architecture
+- [ ] Reactive Spring (Spring WebFlux & Netty)
+
+#### 🗄️ 3. Data Persistence Layer
+- [ ] Relational Databases & SQL (PostgreSQL / MySQL)
+- [ ] Spring Data JPA & Hibernate (ORM)
+- [ ] Transaction Management & Isolation Boundaries
+- [ ] Redis Distributed Caching Mechanisms
+
+#### ☁️ 4. DevOps & Cloud Infrastructure
+- [ ] Git & GitHub Version Control
+- [ ] Docker Containerization & Docker Compose
+- [ ] AWS Cloud Services (EC2 & S3 Basics)
+
+
+---
+
 ## 📅 PHASE 1: Advanced Core Java & Data Structures (Days 1–15)
 *Goal: Bridge your knowledge gaps starting from Loops, master Object-Oriented design patterns, and ace Online Coding Assessments.*
 
