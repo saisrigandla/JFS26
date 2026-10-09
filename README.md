@@ -16,10 +16,18 @@ To successfully transition from **Loops** to a **₹15 LPA Architecture** in 60 
 
 **3 months plan**
 
-📅 MONTH 1: Core Logic Reset ──► 📅 MONTH 2: Enterprise Backend ──► 📅 MONTH 3: Distributed Apps & Cloud
-   - Master Java 17 & DSA           - Spring Boot REST APIs            - Kafka, Redis Microservices
-   - React UI Fundamentals          - SQL Databases & JPA              - AWS Cloud Deployed Live
+📅 MONTH 1: Core Logic Reset  
+   - Master Java 17 & DSA                    
+   - React UI Fundamentals                       
 
+📅 MONTH 2: Enterprise Backend
+   - Spring Boot REST APIs
+   - SQL Databases & JPA
+
+📅 MONTH 3: Distributed Apps & Cloud
+   - Kafka, Redis Microservices
+   - AWS Cloud Deployed Live
+     
 ---
 
 ### 🛠️ Core Tech Stack & Subjects Checklist
