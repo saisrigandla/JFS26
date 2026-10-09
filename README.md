@@ -14,7 +14,7 @@ To successfully transition from **Loops** to a **₹15 LPA Architecture** in 60 
 
 ---
 
-**3 months plan**
+### 3 months plan
 
 📅 MONTH 1: Core Logic Reset  
    - Master Java 17 & DSA                    
