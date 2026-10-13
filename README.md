@@ -33,9 +33,8 @@ To successfully transition from **Loops** to a **₹15 LPA Architecture** in 60 
 ### 🛠️ Core Tech Stack & Subjects Checklist
 - **[java development full course - telusko](https://www.youtube.com/watch?v=q6z_UCBM5Ek&t=23s&pp=0gcJCTcMAYcqIYzv)**
 - **[DSA full course - striver](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)**
-- **[sql full course - simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z)**
-- **[web development full course - simplilearn](https://www.youtube.com/watch?v=6_noRYk9Nho)**
-- **[react.js full course - simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKMie-cEUnkHRxiFKDZJGqO)**
+- **[sql full course - codewithharry](https://www.youtube.com/watch?v=yE6tIle64tU&pp=ygUPc3FsIGZ1bGwgY291cnNl)**
+- **[web development full course - codewithharry](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)**
 - **[system design full course - telusko](https://www.youtube.com/watch?v=Vnm-ycSfJx4&pp=ygUNc3lzdGVtIGRlc2lnbg%3D%3D)**
 - **[core cs fundamentals course for placements - vivek gupta](https://youtu.be/0u66_vNiRlo?list=PLJ6MjbqM0w30AO9nW38IsY-LWmiVE_1JN)**
 
